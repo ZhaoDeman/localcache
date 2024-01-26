@@ -1,0 +1,9 @@
+{
+  "dataSource": {
+    "user": "root",
+    "host": "127.0.0.1:13306",
+    "password": "123456",
+    "database": "auth",
+    "logLevel": "Info"
+  }
+}
