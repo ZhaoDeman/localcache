@@ -68,7 +68,7 @@ where table_schema = 'sentry'
 order by data_length desc, index_length desc;
 ```
 
-#六、业务实现
+# 六、业务实现
 ```go
 service.InitOrganizationCache(ctx,
 service.ICacheConfig{
